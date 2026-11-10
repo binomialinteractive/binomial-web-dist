@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://binomialinteractive.com/sitemap-index.xml
